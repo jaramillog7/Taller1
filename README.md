@@ -97,3 +97,4 @@ Permite ver las solicitudes que realiza una página al cargar archivos o informa
 La solución de la parte práctica se encuentra en este repositorio:
 
 https://github.com/jaramillog7/Taller1
+
